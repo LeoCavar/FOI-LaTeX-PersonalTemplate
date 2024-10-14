@@ -1,15 +1,4 @@
 {
-    "markdown-preview-enhanced.codeBlockTheme": "atom-dark.css",
-    "markdown-preview-enhanced.previewTheme": "atom-dark.css",
-    "workbench.colorTheme": "Atom One Dark",
-    "window.zoomLevel": 1,
-    "editor.minimap.autohide": true,
-    "editor.minimap.enabled": false,
-    "workbench.sideBar.location": "right",
-    "window.autoDetectColorScheme": true,
-    "window.density.editorTabHeight": "compact",
-    "window.menuBarVisibility": "visible",
-    "workbench.preferredDarkColorTheme": "Atom One Dark",
     "latex-workshop.latex.outDir": "./output_files",
     "latex-workshop.latex.tools": [
         {
